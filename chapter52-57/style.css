@@ -1,0 +1,14 @@
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+.modal-open{
+    display: block;
+}
+
+
+
+.modal-close{
+    display: none;
+}
